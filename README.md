@@ -151,6 +151,9 @@ Connection to nullspinach closed. Stay paranoid. 🧅
 ```
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/nullspinach/nullspinach/output/github-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nullspinach&color=00ff41&style=flat-square&label=Intruders+Logged)
 
