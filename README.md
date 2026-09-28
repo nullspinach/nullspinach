@@ -15,8 +15,8 @@ alt="nullspinach"
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1700&pause=650&color=00FF41&center=true&vCenter=true&repeat=true&width=850&height=65&lines=%5B%2B%5D+booting+nullspinach...;%5B%2B%5D+loading+security+mindset...;%5B%2B%5D+initializing+offensive+tooling...;%5B%2B%5D+starting+AI+red-team+modules...;%5B%2B%5D+entering+research+mode...;%5B%2B%5D+stay+paranoid.+%F0%9F%A5%AC"
-width="100%"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1700&pause=650&color=00FF41&center=true&vCenter=true&repeat=true&width=820&height=60&lines=%5B%2B%5D+booting+nullspinach...;%5B%2B%5D+loading+security+mindset...;%5B%2B%5D+initializing+offensive+tooling...;%5B%2B%5D+starting+AI+red-team+modules...;%5B%2B%5D+entering+research+mode...;%5B%2B%5D+stay+paranoid.+%F0%9F%A5%AC"
+width="820"
 alt="terminal boot animation"
 />
 
@@ -27,19 +27,19 @@ alt="terminal boot animation"
 <br><br>
 
 <b>Offensive Security Researcher</b>
- •  <b>Penetration Tester</b>
- •  <b>AI Red-Teamer</b>
+ • 
+<b>Penetration Tester</b>
+ • 
+<b>AI Red-Teamer</b>
 
 <br><br>
 
 <a href="https://github.com/nullspinach">
 <img src="https://img.shields.io/badge/GitHub-nullspinach-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
 </a>
-
 <a href="https://linkedin.com/in/nullspinach">
 <img src="https://img.shields.io/badge/LinkedIn-nullspinach-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
 </a>
-
 <a href="mailto:sohan.muhammed.cy@gmail.com">
 <img src="https://img.shields.io/badge/Email-contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
 </a>
@@ -54,41 +54,36 @@ alt="terminal boot animation"
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1400&pause=700&color=3FB950&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%5Bkernel%5D+curiosity+loaded;%5Bkernel%5D+paranoia+loaded;%5Bkernel%5D+sleep+module+not+found"
+width="600"
 alt="kernel status"
 />
 
 </div>
 
-<br>
-
----
-
 <div align="center">
 
-### `root@nullspinach:~$ whoami`
-
-<br>
+root@nullspinach:~$ whoami
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&pause=650&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%3E+querying+identity...;%3E+process+found%3A+nullspinach;%3E+loading+origin.log...;%3E+permission%3A+granted"
-alt="whoami"
+width="700"
+alt="whoami animation"
 />
 
 </div>
 
-> **nullspinach** is what happens when a crashed process decides it would rather do security research.
+nullspinach is what happens when a crashed process decides it would rather do security research.
 
 I live somewhere between packets, processes, prompts, APIs, Linux shells and broken assumptions.
 
 The interesting part isn't simply finding that something is vulnerable.
 
-It's understanding **why the system trusted the input**, where the boundary failed, what can actually be reached, and what evidence proves the issue.
+It's understanding why the system trusted the input, where the boundary failed, what can actually be reached, what evidence proves the issue, and how it can be fixed.
 
 <br>
 
 <div align="center">
 
-```text
 ╭──────────────────────────────────────────────────────────────╮
 │                    /etc/nullspinach.conf                    │
 ├──────────────────────────────────────────────────────────────┤
@@ -102,113 +97,105 @@ It's understanding **why the system trusted the input**, where the boundary fail
 │  uptime       = ████████████████████████ 100%               │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
-```
 
 </div>
 
----
-
 <div align="center">
 
-### `root@nullspinach:~$ ./origin.sh`
+root@nullspinach:~$ ./origin.sh
 
 <br>
 
 <img
 src="./assets/nullspinach-boot.gif"
-width="100%"
-alt="nullspinach boot sequence"
+width="640"
+height="394"
+alt="nullspinach animated boot sequence"
 />
+
+<br><br>
+
+<sub><code>boot sequence complete • process continues</code></sub>
 
 </div>
 
----
-
 <div align="center">
 
-### `root@nullspinach:~$ cat /var/log/nullspinach.log`
+root@nullspinach:~$ cat /var/log/nullspinach.log
 
-<br>
+</div>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1350&pause=600&color=3FB950&center=true&vCenter=true&repeat=true&width=760&height=70&lines=%5Bstory.log%5D+process+initialized;%5Bstory.log%5D+process+refused+to+terminate;%5Bstory.log%5D+process+renamed+itself;%5Bstory.log%5D+process+moved+into+%2Fdev%2Fnull;%5Bstory.log%5D+process+continues..."
-alt="origin log animation"
-/>
-
-<br>
-
-```text
-╭──────────────────────────────────────────────────────────────╮
+┌──────────────────────────────────────────────────────────────┐
 │                     EXECUTION HISTORY                       │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  curiosity                                                   │
-│     ↓                                                        │
-│  Linux / networking                                          │
-│     ↓                                                        │
-│  CTFs / enumeration                                          │
-│     ↓                                                        │
-│  web application security                                    │
-│     ↓                                                        │
-│  penetration testing                                         │
-│     ↓                                                        │
-│  offensive security research                                 │
-│     ↓                                                        │
-│  AI / LLM security                                           │
-│     ↓                                                        │
-│  multi-agent red teaming                                     │
-│     ↓                                                        │
-│  still digging                                                │
+│  [01] curiosity                                               │
+│       ↓                                                      │
+│  [02] Linux / networking                                     │
+│       ↓                                                      │
+│  [03] CTFs / enumeration                                     │
+│       ↓                                                      │
+│  [04] web application security                               │
+│       ↓                                                      │
+│  [05] penetration testing                                    │
+│       ↓                                                      │
+│  [06] offensive security research                            │
+│       ↓                                                      │
+│  [07] AI / LLM security                                      │
+│       ↓                                                      │
+│  [08] multi-agent red teaming                                │
+│       ↓                                                      │
+│  [09] still digging                                           │
 │                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
+└──────────────────────────────────────────────────────────────┘
 
 <div align="center">
 
-### `root@nullspinach:~$ cat /etc/manifesto.txt`
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1450&pause=700&color=3FB950&center=true&vCenter=true&repeat=true&width=700&height=34&lines=%5Bstory.log%5D+the+crash+was+not+an+error;%5Bstory.log%5D+it+was+the+origin;%5Bstory.log%5D+process+continues..."
+width="700"
+alt="story animation"
+/>
+
+</div>
+
+<div align="center">
+
+root@nullspinach:~$ cat /etc/manifesto.txt
 
 <br>
 
 <img
 src="./assets/nullspinach-manifesto.gif"
-width="100%"
+width="640"
+height="394"
 alt="nullspinach manifesto terminal"
 />
 
 </div>
 
----
-
 <div align="center">
 
-### `root@nullspinach:~$ ./mindset.sh`
-
-<br>
+root@nullspinach:~$ ./mindset.sh
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1450&pause=650&color=8B949E&center=true&vCenter=true&repeat=true&width=760&height=115&lines=I+don't+want+to+merely+memorize+vulnerabilities.;I+want+to+understand+why+the+system+trusts+the+input.;why+the+boundary+exists.;why+the+boundary+fails.;what+an+attacker+can+actually+reach.;what+evidence+proves+the+issue.;and+how+the+issue+can+be+fixed."
+width="760"
 alt="security mindset animation"
 />
 
-<br>
+<br><br>
 
 <code>find → understand → reproduce → document → fix</code>
 
 </div>
 
----
-
 <div align="center">
 
-### `root@nullspinach:~$ tree ./arsenal`
+root@nullspinach:~$ tree ./arsenal
 
 </div>
 
-```text
 ./arsenal
 │
 ├── offensive
@@ -223,7 +210,7 @@ alt="security mindset animation"
 │   ├── Wireshark
 │   ├── Nessus
 │   ├── Active Directory
-│   └── Python / Bash tooling
+│   └── custom Python / Bash tooling
 │
 ├── ai-security
 │   ├── Prompt Injection
@@ -244,7 +231,6 @@ alt="security mindset animation"
     ├── Java
     ├── Sockets
     └── Linux
-```
 
 <br>
 
@@ -257,46 +243,39 @@ alt="technology stack"
 
 </div>
 
----
-
 <div align="center">
 
-### `root@nullspinach:~$ ./current_focus.sh`
-
-<br>
+root@nullspinach:~$ ./current_focus.sh
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1450&pause=550&color=8B949E&center=true&vCenter=true&repeat=true&width=820&height=110&lines=%5B%2B%5D+grinding+%3A+HackTheBox+%26+TryHackMe+CTFs;%5B%2B%5D+studying+%3A+Cloud+Security;%5B%2B%5D+researching+%3A+Multi-Agent+AI+Red-Teaming;%5B%2B%5D+researching+%3A+Prompt+Injection;%5B%2B%5D+researching+%3A+Tor+Anonymity;%5B%2B%5D+building+%3A+Custom+Python+Offensive+Tooling;%5B%2B%5D+learning+%3A+something+new;%5B%2B%5D+status+%3A+still+digging"
-alt="current focus"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1450&pause=550&color=8B949E&center=true&vCenter=true&repeat=true&width=820&height=105&lines=%5B%2B%5D+grinding+%3A+HackTheBox+%26+TryHackMe+CTFs;%5B%2B%5D+studying+%3A+Cloud+Security;%5B%2B%5D+researching+%3A+Multi-Agent+AI+Red-Teaming;%5B%2B%5D+researching+%3A+Prompt+Injection;%5B%2B%5D+researching+%3A+Tor+Anonymity;%5B%2B%5D+building+%3A+Custom+Python+Offensive+Tooling;%5B%2B%5D+status+%3A+still+digging"
+width="820"
+alt="current focus animation"
 />
 
 </div>
 
----
-
 <div align="center">
 
-### `root@nullspinach:~$ ./status.sh --live`
+root@nullspinach:~$ ./status.sh --live
 
 <br>
 
 <img
 src="./assets/nullspinach-status.gif"
-width="100%"
-alt="live status terminal"
+width="640"
+height="394"
+alt="live system status"
 />
 
 </div>
 
----
-
 <div align="center">
 
-### `root@nullspinach:~$ git log --oneline --graph`
+root@nullspinach:~$ git log --oneline --graph
 
 </div>
 
-```text
 * 0x09f  researching agentic AI security
 * 0x08f  digging deeper into prompt injection
 * 0x07f  breaking assumptions
@@ -307,22 +286,20 @@ alt="live status terminal"
 * 0x02f  learning to think like a defender
 * 0x01f  discovering that everything is input
 * 0x000  process initialized
-```
 
 <div align="center">
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1400&pause=750&color=3FB950&center=true&vCenter=true&repeat=true&width=620&height=32&lines=%5Bgit%5D+HEAD+-%3E+curiosity;%5Bgit%5D+branch+-%3E+security;%5Bgit%5D+commit+-%3E+learn"
+width="620"
 alt="git animation"
 />
 
 </div>
 
----
-
 <div align="center">
 
-### `root@nullspinach:~$ ./consume_contributions.sh`
+root@nullspinach:~$ ./consume_contributions.sh
 
 <br>
 
@@ -338,15 +315,24 @@ alt="GitHub contribution snake animation"
 
 </div>
 
----
-
 <div align="center">
 
-### `root@nullspinach:~$ cat /etc/ops`
+root@nullspinach:~$ ./research.log
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&pause=650&color=3FB950&center=true&vCenter=true&repeat=true&width=720&height=80&lines=%5B%2B%5D+web+application+security;%5B%2B%5D+infrastructure+%26+network+security;%5B%2B%5D+AI+%2F+LLM+security;%5B%2B%5D+adversarial+research;%5B%2B%5D+CTF+%26+offensive+tooling"
+width="720"
+alt="research areas"
+/>
 
 </div>
 
-```text
+<div align="center">
+
+root@nullspinach:~$ cat /etc/ops
+
+</div>
+
 ╭────────────────────┬─────────────────────────────────────────╮
 │ Area               │ Focus                                   │
 ├────────────────────┼─────────────────────────────────────────┤
@@ -357,17 +343,13 @@ alt="GitHub contribution snake animation"
 │ CTF                │ Enumeration / exploitation / reversing  │
 │ Development        │ Python / Bash / systems tooling         │
 ╰────────────────────┴─────────────────────────────────────────╯
-```
-
----
 
 <div align="center">
 
-### `root@nullspinach:~$ cat /etc/rules`
+root@nullspinach:~$ cat /etc/rules
 
 </div>
 
-```text
 01. curiosity > ego
 02. evidence > assumptions
 03. reproducibility > screenshots
@@ -375,24 +357,18 @@ alt="GitHub contribution snake animation"
 05. patch > persistence
 06. understanding > memorization
 07. learn something every time
-```
 
 <br>
 
-<div align="center">
-
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1350&pause=700&color=00FF41&center=true&vCenter=true&repeat=true&width=720&height=40&lines=%5B%2B%5D+read+the+source;%5B%2B%5D+verify+the+assumption;%5B%2B%5D+question+the+happy+path;%5B%2B%5D+trust+nothing+without+evidence"
-alt="security rules animation"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1350&pause=700&color=00FF41&center=true&vCenter=true&repeat=true&width=720&height=42&lines=%5B%2B%5D+read+the+source;%5B%2B%5D+verify+the+assumption;%5B%2B%5D+question+the+happy+path;%5B%2B%5D+trust+nothing+without+evidence"
+width="720"
+alt="security rules"
 />
 
-</div>
-
----
-
 <div align="center">
 
-### `root@nullspinach:~$ ./connect.sh`
+root@nullspinach:~$ ./connect.sh
 
 <br>
 
@@ -416,22 +392,20 @@ Stay paranoid. 🥬
 
 </div>
 
----
-
 <div align="center">
-
-<br>
 
 <img
 src="./assets/nullspinach-closing.gif"
-width="100%"
-alt="closing terminal animation"
+width="640"
+height="394"
+alt="closing terminal sequence"
 />
 
 <br><br>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1150&pause=850&color=00FF41&center=true&vCenter=true&repeat=true&width=680&height=48&lines=%5B0x00%5D+find+the+bug;%5B0x01%5D+prove+the+bug;%5B0x02%5D+document+the+bug;%5B0x03%5D+fix+the+bug;%5B0x04%5D+learn+why+it+worked;%5B0x05%5D+move+on"
+width="680"
 alt="closing sequence"
 />
 
