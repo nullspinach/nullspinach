@@ -1,116 +1,157 @@
 <div align="center">
-  <img src="logo.png" width="110" alt="nullspinach">
-</div>
 
-```
-███╗   ██╗ ██╗   ██╗ ██╗     ██╗     ███████╗ ██████╗ ██╗ ███╗   ██╗  █████╗  ██████╗ ██╗  ██╗
-████╗  ██║ ██║   ██║ ██║     ██║     ██╔════╝ ██╔══██╗██║ ████╗  ██║ ██╔══██╗ ██╔════╝ ██║  ██║
-██╔██╗ ██║ ██║   ██║ ██║     ██║     ███████╗ ██████╔╝██║ ██╔██╗ ██║ ███████║ ██║  ███╗███████║
-██║╚██╗██║ ██║   ██║ ██║     ██║     ╚════██║ ██╔═══╝ ██║ ██║╚██╗██║ ██╔══██║ ██║   ██║██╔══██║
-██║ ╚████║ ╚██████╔╝ ███████╗███████╗███████║ ██║     ██║ ██║ ╚████║ ██║  ██║ ╚██████╔╝██║  ██║
-╚═╝  ╚═══╝  ╚═════╝  ╚══════╝╚══════╝╚══════╝ ╚═╝     ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝  ╚═════╝ ╚═╝  ╚═╝
-```
-
-<div align="center">
-
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=400&color=00FF41&center=true&vCenter=true&width=430&lines=whoami+%3A%3A+nullspinach;sudo+cat+manifesto.txt;.%2Fhunt.sh+--mode%3Dethical)
-
-![eJPT v2](https://img.shields.io/badge/eJPT-v2-00ff41?style=flat-square&labelColor=0d1117)
-![CPENT v2](https://img.shields.io/badge/CPENT-v2-00ff41?style=flat-square&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&labelColor=0d1117)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&labelColor=0d1117)
-![AI Red-Teaming](https://img.shields.io/badge/AI_Red--Teaming-8A2BE2?style=flat-square&labelColor=0d1117)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=root@nullspinach%3A~%23+whoami;root%40nullspinach%3A~%23+cat+manifesto.txt;root%40nullspinach%3A~%23+sudo+./hunt.sh+--mode%3Dethical)
 
 </div>
 
----
-
 ```bash
-$ cat origin.log
-[03:33:07] kernel : spinach_leaf detected on keyboard, server room, Kerala
-[03:33:08] script : NullPointerException at line 1337
-[03:33:09] process: refused to terminate
-[03:33:10] process: renamed itself → nullspinach
-[03:33:11] nullspinach: "i eat RAM for breakfast and spin up VMs like popeye eats spinach."
-[03:33:12] nullspinach: moved into /dev/null. pays no rent. leaves no logs.
+[  OK  ] Starting kernel...
+[  OK  ] Loading nullspinach module...
+[  OK  ] Bypassing security filters...
+[  OK  ] Mounting /dev/null...
+[  OK  ] System ready.
+
+root@nullspinach:~# ./status.sh
 ```
 
-**nullspinach** is what happens when a crashed process decides it likes security research more than its original job. It lives in the gaps between packets, whispers to agents inside multi-agent systems, and has one obsession: finding the flaw before the wrong people do — then writing the report that kills it.
-
----
-
-```bash
-$ cat manifesto.txt
-[0] Hack only what you own, or what you have written permission to test.
-[1] Break it. Document it. Fix it. In that order.
-[2] Leave every system safer than you found it.
-[3] Knowledge hoarded is knowledge wasted — share it.
-[4] The best exploit is the one reported before it gets weaponized.
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  ALIAS: nullspinach                                              │
+│  CLASS: Offensive Security / AI Red-Teamer                       │
+│  STATUS: Hunting...                                              │
+│  UPLINK: eJPT v2 [ACTIVE] | CPENT v2 [ACTIVE]                    │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
----
-
 ```bash
-$ tree -L 1 ./arsenal
-arsenal/
-├── offensive/    → Burp Suite, Metasploit, SQLmap, Hashcat, John the Ripper
-├── recon/        → Nmap, Wireshark, Nessus, custom Python/Bash automation
-├── frameworks/   → MITRE ATT&CK, OWASP Top 10, PTES, CVSS scoring
-├── infra/        → Active Directory, Linux, Windows Server, Tor, Virtualization
-├── ai_security/  → prompt injection, LLM jailbreaking, API leakage, multi-agent audits
-└── languages/    → Python, Bash, Node.js, Java
+root@nullspinach:~# ls -la ./arsenal
 ```
 
----
-
-```bash
-$ ./status.sh --live
-[+] grinding    : HackTheBox & TryHackMe CTFs
-[+] studying    : cloud security (48h intensive)
-[+] researching : multi-agent AI red-teaming • prompt-injection surfaces • Tor anonymity
-[+] building    : something that will annoy threat actors (soon™)
+```text
+drwxr-xr-x  2 nullspinach nullspinach 4096 Oct 24 03:33 offensive
+drwxr-xr-x  2 nullspinach nullspinach 4096 Oct 24 03:33 recon
+drwxr-xr-x  2 nullspinach nullspinach 4096 Oct 24 03:33 frameworks
+drwxr-xr-x  2 nullspinach nullspinach 4096 Oct 24 03:33 infra
+drwxr-xr-x  2 nullspinach nullspinach 4096 Oct 24 03:33 ai_security
+-rw-r--r--  1 nullspinach nullspinach  313 Oct 24 03:33 manifesto.txt
 ```
-
----
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=nullspinach&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=9fffe0&bg_color=0d1117)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nullspinach&layout=compact&hide_border=true&title_color=00FF41&text_color=9fffe0&bg_color=0d1117)
-
-</div>
-
----
 
 <details>
-<summary>🕴️ <b>sudo cat recruiter_mode.txt</b> — for the humans in HR</summary>
+<summary>📂 <b>cat ./arsenal/offensive/</b></summary>
 <br>
 
-- **Name:** Sohan Muhammed
-- **Role:** Penetration Tester / Security Engineer (eJPT v2, CPENT v2)
-- **Education:** BCA — ISME, Ernakulam (2022–2025)
-- **Focus:** Network pentesting, Active Directory exploitation, AI/LLM security research
-- **Email:** sohan.muhammed.cy@gmail.com
-- **LinkedIn:** [linkedin.com/in/nullspinach](https://www.linkedin.com/in/nullspinach)
+```text
+[+] Burp Suite
+[+] Metasploit
+[+] SQLmap
+[+] Hashcat
+[+] John the Ripper
+```
+</details>
 
-*Yes, the leaf is real. Yes, the certifications are real too.*
+<details>
+<summary>📂 <b>cat ./arsenal/recon/</b></summary>
+<br>
 
+```text
+[+] Nmap
+[+] Wireshark
+[+] Nessus
+[+] Custom Python/Bash Automation
+```
+</details>
+
+<details>
+<summary>📂 <b>cat ./arsenal/frameworks/</b></summary>
+<br>
+
+```text
+[+] MITRE ATT&CK
+[+] OWASP Top 10
+[+] PTES
+[+] CVSS Scoring
+```
+</details>
+
+<details>
+<summary>📂 <b>cat ./arsenal/infra/</b></summary>
+<br>
+
+```text
+[+] Active Directory Exploitation
+[+] Linux/Windows Server Admin
+[+] TCP/IP & DNS
+[+] Tor Network
+[+] Virtualization
+```
+</details>
+
+<details>
+<summary>📂 <b>cat ./arsenal/ai_security/</b></summary>
+<br>
+
+```text
+[+] Prompt Injection
+[+] LLM Jailbreaking
+[+] API Leakage Testing
+[+] Multi-Agent Architecture Auditing
+```
 </details>
 
 ---
 
 ```bash
-$ ./contact.sh
-[+] email    : sohan.muhammed.cy@gmail.com
-[+] linkedin : /in/nullspinach
-$ exit
-Connection closed by nullspinach. Stay paranoid. 🧅
+root@nullspinach:~# cat manifesto.txt
+```
+
+```text
+[0] Hack only what you own, or what you have written permission to test.
+[1] Break it. Document it. Fix it. In that order.
+[2] Leave every system safer than you found it.
+[3] The best exploit is the one reported before it gets weaponized.
+[4] nullspinach does not leave logs. nullspinach leaves patches.
+```
+
+---
+
+<details>
+<summary>🕴️ <b>sudo cat recruiter_mode.txt</b> — drop PII, keep the signal</summary>
+<br>
+
+```bash
+root@nullspinach:~# ./contact_hr.sh --stealth
+```
+
+```text
+[+] ROLE_TARGET    : Penetration Tester / Security Engineer
+[+] CERTIFICATIONS : eJPT v2, CPENT v2, TryHackMe Advent of Cyber
+[+] FOCUS_AREAS    : Network Pentesting, AD Exploitation, AI/LLM Red-Teaming
+[+] SECURE_EMAIL   : sohan.muhammed.cy@gmail.com
+[+] SECURE_LINK    : linkedin.com/in/nullspinach
+
+> Message: "Check the resume. The leaf is real. The certs are real."
+```
+</details>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nullspinach&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=9fffe0&bg_color=0d1117&hide=issues,contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nullspinach&layout=compact&hide_border=true&title_color=00FF41&text_color=9fffe0&bg_color=0d1117)
+
+</div>
+
+---
+
+```bash
+root@nullspinach:~# exit
+Connection to nullspinach closed. Stay paranoid. 🧅
 ```
 
 <div align="center">
 
-![visitors](https://komarev.com/ghpvc/?username=nullspinach&color=00ff41&style=flat-square&label=intruders+logged)
+![Profile Views](https://komarev.com/ghpvc/?username=nullspinach&color=00ff41&style=flat-square&label=Intruders+Logged)
 
 </div>
