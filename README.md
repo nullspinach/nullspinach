@@ -1,59 +1,48 @@
-<!-- ========================================================= -->
-<!--                       NULLSPINACH                         -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-  <!-- Animated header -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=210&section=header&text=nullspinach&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-    width="100%"
-    alt="nullspinach"
-  />
+<img src="./assets/nullspinach-header.gif" width="100%" alt="nullspinach" />
 
-  <br />
+<br>
 
-  <!-- Animated terminal -->
-  <a href="https://github.com/nullspinach">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&repeat=true&width=760&height=55&lines=%5B%2B%5D+initializing+nullspinach...;%5B%2B%5D+whoami+%3D%3E+offensive+security+researcher;%5B%2B%5D+sudo+.%2Fhunt.sh+--mode%3Dethical;%5B%2B%5D+breaking+things+so+others+don't+have+to;%5B%2B%5D+stay+paranoid.+%F0%9F%A5%AC"
-      alt="terminal typing animation"
-    />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=650&color=00FF41&center=true&vCenter=true&repeat=true&width=780&height=55&lines=%5B%2B%5D+initializing+nullspinach...;%5B%2B%5D+whoami+%3D%3E+offensive+security+researcher;%5B%2B%5D+sudo+.%2Fhunt.sh+--mode%3Dethical;%5B%2B%5D+breaking+things+so+others+don't+have+to;%5B%2B%5D+stay+paranoid.+%F0%9F%A5%AC" alt="terminal typing animation" />
 
-  <br />
+<br>
 
-  <p>
-    <b>Offensive Security Researcher</b>
-    &nbsp;•&nbsp;
-    <b>Penetration Tester</b>
-    &nbsp;•&nbsp;
-    <b>AI Red-Teamer</b>
-  </p>
+<img src="./assets/nullspinach-buddy.gif" width="82" alt="pixel spinach buddy" />
 
-  <p>
-    <a href="https://github.com/nullspinach">
-      <img src="https://img.shields.io/badge/GitHub-nullspinach-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" />
-    </a>
-    <a href="https://linkedin.com/in/nullspinach">
-      <img src="https://img.shields.io/badge/LinkedIn-nullspinach-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
-    </a>
-    <a href="mailto:sohan.muhammed.cy@gmail.com">
-      <img src="https://img.shields.io/badge/Email-contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" />
-    </a>
-  </p>
+### `nullspinach`
 
-  <p>
-    <img src="https://img.shields.io/badge/CPENT_v2-Certified-00FF41?style=flat-square&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/eJPT_v2-Certified-00FF41?style=flat-square&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/CTF-Active_Player-00FF41?style=flat-square&labelColor=0D1117" />
-  </p>
+**Offensive Security Researcher** · **Penetration Tester** · **AI Red-Teamer**
+
+<br>
+
+<a href="https://github.com/nullspinach">
+<img src="https://img.shields.io/badge/GitHub-nullspinach-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" />
+</a>
+<a href="https://linkedin.com/in/nullspinach">
+<img src="https://img.shields.io/badge/LinkedIn-nullspinach-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
+</a>
+<a href="mailto:sohan.muhammed.cy@gmail.com">
+<img src="https://img.shields.io/badge/Email-contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CPENT_v2-Certified-00FF41?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/eJPT_v2-Certified-00FF41?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CTF-Active_Player-00FF41?style=flat-square&labelColor=0D1117" />
 
 </div>
 
 ---
 
-## `root@nullspinach:~$ whoami`
+<div align="center">
+
+<img src="./assets/nullspinach-buddy.gif" width="52" alt="" />
+
+`root@nullspinach:~$ whoami`
+
+</div>
 
 > **nullspinach** is what happens when a crashed process decides it would rather do security research.
 
@@ -72,11 +61,17 @@ I spend my time looking for places where systems behave differently from how the
 │  status   : investigating                                    │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-````
+```
 
 ---
 
-## `root@nullspinach:~$ cat /var/log/origin.log`
+<div align="center">
+
+<img src="./assets/nullspinach-buddy.gif" width="52" alt="" />
+
+`root@nullspinach:~$ cat /var/log/origin.log`
+
+</div>
 
 <details>
 <summary><b>▶ expand origin story</b></summary>
@@ -99,7 +94,13 @@ I spend my time looking for places where systems behave differently from how the
 
 ---
 
-## `root@nullspinach:~$ cat /etc/manifesto.txt`
+<div align="center">
+
+<img src="./assets/nullspinach-buddy.gif" width="52" alt="" />
+
+`root@nullspinach:~$ cat /etc/manifesto.txt`
+
+</div>
 
 ```text
 [0] Hack only what you own, or what you have explicit written permission to test.
@@ -111,7 +112,13 @@ I spend my time looking for places where systems behave differently from how the
 
 ---
 
-## `root@nullspinach:~$ tree ./arsenal`
+<div align="center">
+
+<img src="./assets/nullspinach-buddy.gif" width="52" alt="" />
+
+`root@nullspinach:~$ tree ./arsenal`
+
+</div>
 
 ```text
 ./arsenal
@@ -127,7 +134,7 @@ I spend my time looking for places where systems behave differently from how the
 │   ├── Wireshark
 │   ├── Nessus
 │   ├── Active Directory
-│   └── custom Python/Bash tooling
+│   └── Python / Bash tooling
 │
 ├── ai-security
 │   ├── Prompt Injection
@@ -152,10 +159,17 @@ I spend my time looking for places where systems behave differently from how the
 
 ---
 
-## `root@nullspinach:~$ ls -la ./featured_projects`
+<div align="center">
+
+<img src="./assets/nullspinach-buddy.gif" width="52" alt="" />
+
+`root@nullspinach:~$ ls -la ./featured_projects`
+
+</div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🧠 Memfruity
@@ -186,9 +200,11 @@ Tor-routed encrypted IRC project.
 ```
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📊 PigFin
@@ -218,25 +234,31 @@ Real-time market pipeline.
 ```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## `root@nullspinach:~$ ./current_focus.sh`
+<div align="center">
 
-<a href="https://github.com/nullspinach">
+<img src="./assets/nullspinach-buddy.gif" width="52" alt="" />
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1600&pause=600&color=8B949E&center=true&vCenter=true&repeat=true&width=720&height=45&lines=%5B%2B%5D+grinding+%3A+HackTheBox+%26+TryHackMe+CTFs;%5B%2B%5D+studying+%3A+Cloud+Security;%5B%2B%5D+researching+%3A+Multi-Agent+AI+Red-Teaming;%5B%2B%5D+researching+%3A+Prompt+Injection;%5B%2B%5D+researching+%3A+Tor+Anonymity;%5B%2B%5D+building+%3A+Custom+Python+Offensive+Tooling"
-alt="current focus"
-/>
+`root@nullspinach:~$ ./current_focus.sh`
 
-</a>
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=8B949E&center=true&vCenter=true&repeat=true&width=780&height=90&lines=%5B%2B%5D+grinding+%3A+HackTheBox+%26+TryHackMe+CTFs;%5B%2B%5D+studying+%3A+Cloud+Security;%5B%2B%5D+researching+%3A+Multi-Agent+AI+Red-Teaming;%5B%2B%5D+researching+%3A+Prompt+Injection;%5B%2B%5D+researching+%3A+Tor+Anonymity;%5B%2B%5D+building+%3A+Custom+Python+Offensive+Tooling" alt="current focus" />
 
 ---
 
-## `root@nullspinach:~$ ./status.sh`
+<div align="center">
+
+<img src="./assets/nullspinach-buddy.gif" width="52" alt="" />
+
+`root@nullspinach:~$ ./status.sh`
+
+</div>
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -255,40 +277,31 @@ alt="current focus"
 
 ---
 
-## `root@nullspinach:~$ ./watch_me_work.sh`
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/nullspinach/nullspinach/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
-</p>
+<img src="./assets/nullspinach-buddy.gif" width="52" alt="" />
 
-<p align="center">
-  <sub>contributions being consumed one square at a time.</sub>
-</p>
+`root@nullspinach:~$ ./watch_me_work.sh`
 
----
+<br><br>
 
-## `root@nullspinach:~$ cat /etc/ops`
+<img src="./assets/nullspinach-monitor.gif" width="640" alt="nullspinach activity animation" />
 
-```text
-┌────────────────────┬─────────────────────────────────────────┐
-│ Area               │ Focus                                   │
-├────────────────────┼─────────────────────────────────────────┤
-│ Web Security       │ Application & API testing               │
-│ Infrastructure     │ Network / service enumeration           │
-│ AI Security        │ Prompt injection / agent testing        │
-│ Red Teaming        │ Adversarial security research           │
-│ CTF                │ Enumeration / exploitation / reversing  │
-│ Development        │ Python / Bash / systems tooling         │
-└────────────────────┴─────────────────────────────────────────┘
-```
+<br>
+
+<sub><i>process running...</i></sub>
+
+</div>
 
 ---
 
-## `root@nullspinach:~$ cat /etc/rules`
+<div align="center">
+
+<img src="./assets/nullspinach-buddy.gif" width="52" alt="" />
+
+`root@nullspinach:~$ cat /etc/rules`
+
+</div>
 
 ```text
 01. curiosity > ego
@@ -301,7 +314,13 @@ alt="current focus"
 
 ---
 
-## `root@nullspinach:~$ ./connect.sh`
+<div align="center">
+
+<img src="./assets/nullspinach-buddy.gif" width="52" alt="" />
+
+`root@nullspinach:~$ ./connect.sh`
+
+</div>
 
 ```console
 $ ./connect.sh --target nullspinach
@@ -313,6 +332,7 @@ $ ./connect.sh --target nullspinach
 $ exit
 
 Connection closed by nullspinach.
+
 Stay paranoid. 🥬
 ```
 
@@ -320,19 +340,18 @@ Stay paranoid. 🥬
 
 <div align="center">
 
-  <br />
+<img src="./assets/nullspinach-buddy.gif" width="70" alt="nullspinach" />
 
-<img
- src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1300&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=520&height=40&lines=%5B0x00%5D+no+logs;%5B0x01%5D+no+noise;%5B0x02%5D+find+the+bug;%5B0x03%5D+write+the+report"
- alt="closing terminal animation"
-/>
+<br>
 
-<br /><br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=1200&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=560&height=40&lines=%5B0x00%5D+find+the+bug;%5B0x01%5D+prove+the+bug;%5B0x02%5D+document+the+bug;%5B0x03%5D+kill+the+bug" alt="closing animation" />
 
-<img
- src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=120&section=footer"
- width="100%"
- alt=""
-/>
+<br><br>
+
+<sub>
+process 0x1337 · /dev/null · no logs found
+</sub>
+
+<br><br>
 
 </div>
