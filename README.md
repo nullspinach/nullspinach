@@ -1,4 +1,3 @@
-````markdown
 <!-- ========================================================= -->
 <!--                       NULLSPINACH                         -->
 <!-- ========================================================= -->
@@ -260,7 +259,7 @@ alt="current focus"
 
 <p align="center">
   <img
-    src="./github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/nullspinach/nullspinach/output/github-contribution-grid-snake.svg"
     alt="GitHub contribution snake animation"
     width="100%"
   />
@@ -337,59 +336,3 @@ Stay paranoid. 🥬
 />
 
 </div>
-```
-
-### `.github/workflows/snake.yml`
-
-This is the part I especially recommend. Instead of relying on some random external “snake image” URL, GitHub generates the animation in your own repository every day. The current `snk` project documents `v3` and the SVG-only workflow approach. ([GitHub][2])
-
-```yaml
-name: generate contribution snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish generated assets
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then change the snake image in the README to:
-
-```html
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/nullspinach/nullspinach/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
-</p>
-```
-
