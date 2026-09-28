@@ -240,6 +240,26 @@ still digging
 
 <div align="center">
 
+## `root@nullspinach:~$ ./enter_the_lab.sh`
+
+<br>
+
+> **🥬 nullspinach left a little something behind.**
+>
+> Four doors. Four challenges. One route goes deeper.
+>
+> [<img src="https://img.shields.io/badge/%E2%9A%A1_CLICK_FOR_A_FUN_CTF-00FF41?style=for-the-badge&labelColor=07120d" alt="Click for a fun CTF" />](https://nullspinach.github.io/nullspinach/)
+
+<br>
+
+<sub>touch the buddy · pick a door · solve the challenge · survive the sector</sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ## `root@nullspinach:~$ ./explore.sh`
 
 <br>
