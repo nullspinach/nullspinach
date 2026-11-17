@@ -38,7 +38,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CPENT_v2-CERTIFIED-00FF41?style=flat-square&labelColor=0D1117" alt="CPENT v2" />
 <img src="https://img.shields.io/badge/eJPT_v2-CERTIFIED-00FF41?style=flat-square&labelColor=0D1117" alt="eJPT v2" />
 <img src="https://img.shields.io/badge/CTF-ACTIVE-00FF41?style=flat-square&labelColor=0D1117" alt="CTF" />
 
