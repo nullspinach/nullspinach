@@ -69,6 +69,10 @@
 
 I live somewhere between packets, processes, prompts, APIs, Linux shells and broken assumptions.
 
+**Security focus:** Web and API penetration testing, AI/LLM security, and network security.
+
+**Learning focus:** Cloud security.
+
 The interesting part isn't simply finding that something is vulnerable.
 
 It's understanding **why the system trusted the input**, where the boundary failed, what can actually be reached, what evidence proves the issue, and how it can be fixed.
@@ -270,7 +274,7 @@ root@nullspinach:~$ cat /etc/ops
 
 [ WEB SECURITY ]
   Application testing
-  API testing
+  API penetration testing
   Burp Suite
   OWASP Top 10
 
